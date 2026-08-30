@@ -172,7 +172,7 @@ Support escalations are highly correlated with churn, making customer support qu
 
 ## Churn Risk Segmentation
 
-![Churn Risk Segmentation](visuals/Catplot.png)
+![Churn Risk Segmentation](Catplot.png)
 
 **Key Insight:**  
 Premium subscribers consistently remain in low-risk segments while Basic subscribers show significantly higher churn risk.
@@ -181,7 +181,7 @@ Premium subscribers consistently remain in low-risk segments while Basic subscri
 
 ## Feature Relationship Analysis
 
-![Feature Relationship Analysis](visuals/PairPlot.png)
+![Feature Relationship Analysis](PairPlot.png)
 
 **Key Insight:**  
 Strong clustering exists between churn score, churn risk, contract type, and churn flag, making these useful predictive indicators.
@@ -190,7 +190,7 @@ Strong clustering exists between churn score, churn risk, contract type, and chu
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](visuals/HeatMap.png)
+![Correlation Heatmap](HeatMap.png)
 
 ### Important Correlations
 
