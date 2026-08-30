@@ -1,0 +1,22 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,pincode,complaint_date,escalations,csat_score
+CUST_1001,2023-01-15,Postpaid,2024-01-15,Premium,Annual,,,799.5,9500,12,0,Aarav Sharma,India,Delhi,Male,1998-05-14,110001,2023-05-10,0,5.0
+CUST_1002,2022-06-10,Prepaid,2023-06-10,Basic,Monthly,2023-05-01,High Cost,299.0,3500,85,1,Priya Verma,India,Maharashtra,Female,2001-08-22,400001,2023-04-12,2,1.0
+CUST_1003,2023-03-20,Postpaid,2024-03-20,Standard,Annual,,,499.0,6000,25,0,Rohan Mehta,India,Karnataka,Male,1995-12-03,560001,2023-03-25,0,4.0
+CUST_1004,2021-11-05,Prepaid,2022-11-05,Basic,Monthly,2022-10-12,Network Issue,199.0,2200,91,1,Sneha Iyer,India,Tamil Nadu,Female,1999-03-19,600001,2022-09-18,3,1.0
+CUST_1005,2023-08-01,Postpaid,2024-08-01,Premium,Annual,,,999.0,12000,5,0,Kabir Gupta,India,Uttar Pradesh,Male,2002-07-11,208001,2023-09-02,0,5.0
+CUST_1006,2022-02-14,Prepaid,2023-02-14,Standard,Monthly,2023-01-10,Competitor Offer,399.5,4800,78,1,Ananya Reddy,India,Telangana,Female,1997-11-30,500001,2023-01-05,1,2.0
+CUST_1007,2023-05-18,Postpaid,2024-05-18,Basic,Annual,,,249.0,3000,18,0,Vikram Singh,India,Punjab,Male,1994-01-25,141001,,,
+CUST_1008,2022-09-01,Postpaid,2023-09-01,Premium,Annual,,,899.0,10500,10,0,Diya Kapoor,India,Delhi,Female,2003-09-08,110016,2023-01-15,0,4.0
+CUST_1009,2021-04-12,Prepaid,2022-04-12,Basic,Monthly,2022-03-15,Relocation,149.0,1800,88,1,Arjun Nair,India,Kerala,Male,1996-04-17,682001,2022-03-10,2,2.0
+CUST_1010,2023-07-22,Postpaid,2024-07-22,Standard,Annual,,,599.0,7200,22,0,Meera Joshi,India,Gujarat,Female,2000-06-05,380001,2023-08-01,0,5.0
+CUST_1011,2022-12-05,Prepaid,2023-12-05,Basic,Monthly,,,299.0,3600,45,0,Siddharth Rao,India,Karnataka,Male,1993-10-12,560034,,,
+CUST_1012,2023-02-10,Postpaid,2024-02-10,Premium,Annual,,,1099.0,13000,8,0,Neha Saxena,India,Rajasthan,Female,1998-02-28,302001,,,
+CUST_1013,2021-08-30,Prepaid,2022-08-30,Standard,Monthly,2022-07-20,Poor Service,449.0,5000,95,1,Aditya Patel,India,Gujarat,Male,2001-01-15,390001,,,
+CUST_1014,2023-06-15,Postpaid,2024-06-15,Basic,Annual,,,199.0,2400,30,0,Pooja Choudhury,India,West Bengal,Female,1997-08-19,700001,,,
+CUST_1015,2022-10-01,Postpaid,2023-10-01,Premium,Annual,,,799.0,9600,15,0,Karan Malhotra,India,Delhi,Male,1992-05-09,110024,,,
+CUST_1016,2023-04-11,Prepaid,2024-04-11,Standard,Monthly,,,349.0,4200,40,0,Riya Sen,India,Assam,Female,2004-12-01,781001,,,
+CUST_1017,2022-01-20,Postpaid,2023-01-20,Basic,Monthly,2022-12-01,Switched Plan,249.0,2900,82,1,Gaurav Pandey,India,Madhya Pradesh,Male,1999-07-23,462001,,,
+CUST_1018,2023-09-05,Postpaid,2024-09-05,Premium,Annual,,,949.0,11500,12,0,Ishita Agarwal,India,Haryana,Female,2000-03-14,122001,,,
+CUST_1019,2023-03-01,Prepaid,2024-03-01,Standard,Annual,,,499.0,6000,28,0,Varun Bhatia,India,Chandigarh,Male,1996-09-27,160017,,,
+CUST_1020,2022-11-15,Postpaid,2023-11-15,Basic,Monthly,,,299.0,3500,35,0,Tanvi Deshmukh,India,Maharashtra,Female,1998-10-04,411001,,,
+CUST_1021,2023-08-20,Postpaid,2024-08-20,Premium,Annual,,,849.0,10000,14,0,Harsh Vardhan,India,Bihar,Male,1995-06-18,800001,,,
